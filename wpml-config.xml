@@ -1,0 +1,30 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="ignore">cinergy_menu_icon_provided</custom-field>
+        <custom-field action="ignore">cinergy_menu_icon_custom</custom-field>
+        <custom-field action="ignore">cinergy_download_vcard_link</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">portfolio</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="general_settings">
+            <key name="copyright" />
+        </key>
+        <key name="contact_page_settings">
+            <key name="subject" />
+            <key name="success_message" />
+        </key>
+        <key name="seo_meta_settings">
+            <key name="site_meta_slogan" />
+            <key name="separator" />
+            <key name="meta_before_sep" />
+            <key name="meta_after_sep" />
+        </key>
+    </admin-texts>    
+</wpml-config>
+
+
